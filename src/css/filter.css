@@ -1,0 +1,80 @@
+.form-search {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 14px;
+
+  color: rgba(5, 5, 5, 0.50);
+}
+.filter-wraper {
+}
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 1280px) {
+}
+
+.filter-input {
+  display: flex;
+  min-width: 335px;
+  height: 46px;
+  margin-top: 8px;
+  padding: 14px, 18px;
+
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  border-radius: 15px;
+  border: 1px solid rgba(5, 5, 5, 0.2);
+  outline: transparent;
+}
+@media screen and (min-width: 768px) {
+  .filter-input {
+    min-width: 278px;
+    height: 48px;
+
+  font-size: 16px;
+  line-height: 20px;
+
+  }
+}
+
+@media screen and (min-width: 1280px) {
+}
+
+.select-time {
+  display: flex;
+  min-width: 160px;
+  height: 46px;
+  margin-top: 8px;
+
+  border-radius: 15px;
+  border: 1px solid rgba(5, 5, 5, 0.2);
+  outline: transparent;
+}
+
+.select-area {
+  display: flex;
+  min-width: 160px;
+  height: 46px;
+  margin-top: 8px;
+
+  border-radius: 15px;
+  border: 1px solid rgba(5, 5, 5, 0.2);
+  outline: transparent;
+}
+
+.select-ingredients {
+  display: flex;
+  min-width: 188px;
+  height: 46px;
+  margin-top: 8px;
+
+  border-radius: 15px;
+  border: 1px solid rgba(5, 5, 5, 0.2);
+  outline: transparent;
+}
+@media screen and (min-width: 768px) {
+}
+
+@media screen and (min-width: 1280px) {
+}
